@@ -1,0 +1,35 @@
+#d1{
+  /* border: 2px solid; */
+  width: 200vw;
+  height:600px;
+  background-color: rgb(238, 232, 232);
+  /* overflow: hidden; */
+
+}
+#d2{
+  /* border: 2px solid; */
+  width: 600vw;
+  height:600px;
+  background-color: aliceblue;
+  overflow-y: scroll;
+  overflow-x: hidden;
+
+}
+#d3{
+  /* border: 2px solid; */
+  width: 200vw;
+  height: 600px;
+  background-color: rgb(175, 238, 247);
+  /* margin-top: 25px; */
+  
+}
+/* #re{
+  
+}
+.mmm{
+bottom: -2vw;
+} */
+
+::-webkit-scrollbar{
+display: none;
+}
